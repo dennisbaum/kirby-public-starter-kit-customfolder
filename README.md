@@ -11,8 +11,8 @@ A copy of the Kirby Starterkit, but with **public folder structure** and finally
 Install composer: https://getcomposer.org/
 
 ```
-git clone ...
-cd yourfolder
+git clone git@github.com:dennisbaum/kirby-public-starter-kit-customfolder.git
+cd kirby-public-starter-kit-customfolder
 composer install
 composer start
 ```
