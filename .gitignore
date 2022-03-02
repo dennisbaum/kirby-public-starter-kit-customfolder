@@ -1,0 +1,53 @@
+# System files
+# ------------
+
+Icon
+.DS_Store
+
+# Temporary files
+# ---------------
+src/public/media/*
+!src/public/media/.gitkeep
+
+# Vendor files
+# ---------------
+/src/vendor/*
+
+# Lock files
+# ---------------
+
+.lock
+
+# Editors
+# (sensitive workspace files)
+# ---------------------------
+*.sublime-workspace
+/.vscode
+/.idea
+
+# -------------SECURITY-------------
+# NEVER publish these files via Git!
+# -------------SECURITY-------------
+
+# Cache Files
+# ---------------
+
+/src/storage/cache/*
+!/src/storage/cache/.gitkeep
+
+# Accounts
+# ---------------
+
+/src/storage/accounts/*
+!/src/storage/accounts/index.html
+
+# Sessions
+# ---------------
+
+/src/storage/sessions/*
+!/src/storage/sessions/index.html
+
+# License
+# ---------------
+
+/src/site/config/.license
