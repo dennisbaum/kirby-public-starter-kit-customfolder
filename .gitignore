@@ -39,13 +39,19 @@ src/public/media/*
 # ---------------
 
 /src/storage/accounts/*
-!/src/storage/accounts/index.html
+!/src/storage/accounts/.gitkeep
+
+# Logs
+# ---------------
+
+/src/storage/logs/*
+!/src/storage/logs/.gitkeep
 
 # Sessions
 # ---------------
 
 /src/storage/sessions/*
-!/src/storage/sessions/index.html
+!/src/storage/sessions/.gitkeep
 
 # License
 # ---------------
