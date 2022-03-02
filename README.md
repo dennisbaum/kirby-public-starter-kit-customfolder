@@ -15,6 +15,7 @@ git clone git@github.com:dennisbaum/kirby-public-starter-kit-customfolder.git
 cd kirby-public-starter-kit-customfolder
 composer install
 composer start
+code .
 ```
 open http://localhost:8000
 
