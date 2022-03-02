@@ -1,4 +1,4 @@
-# Kirby Public Starter Kit
+# Kirby 3.6 Public Starter Kit
 
 A copy of the Kirby Starterkit, but with **public folder structure** and finally the right composer config for a **custom folder structure**. That should be a good starting point, to create all kind of kirby projects and be able to build to '/dist' or setup a backend/frontend-structure...however (build not included yet)
 
