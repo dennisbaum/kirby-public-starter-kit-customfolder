@@ -23,8 +23,8 @@ brew install composer
 
 Clone Repository, install Kirby and start Server
 ```
-git clone git@github.com:dennisbaum/kirby-public-starter-kit-customfolder.git
-cd kirby-public-starter-kit-customfolder
+git clone git@github.com:dennisbaum/kirby3-plainkit-publicfolder-custompath.git
+cd kirby3-plainkit-publicfolder-custompath
 code .
 composer install
 composer start
