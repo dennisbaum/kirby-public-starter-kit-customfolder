@@ -1,4 +1,4 @@
-# Kirby 3.6 Plainkit with Public Folder and Custom Path Structure
+# Kirby 3.6 Plainkit with Public Folder and Custom Path
 
 A copy of the Kirby Plainkit, but with a more secure **public folder setup** and a composer config for a **custom path structure**. That should be a good **starting point**, to create all kind of kirby projects and be able to do build to '/dist' or setup a backend-frontend-headless-structure ... whatever (build not included yet)
 
