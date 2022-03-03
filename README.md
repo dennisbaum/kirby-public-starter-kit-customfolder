@@ -10,8 +10,10 @@ A copy of the Kirby Plainkit, but with a more secure **public folder setup** and
 <br>
 
 ## Read more
+Kirby CMS https://getkirby.com  
+Kirby Plainkit https://github.com/getkirby/plainkit  
 Custom Folder Setup https://getkirby.com/docs/guide/configuration#custom-folder-setup  
-Custom Path https://getkirby.com/docs/cookbook/setup/composer#installing-kirby-to-a-custom-directory
+Custom Path https://getkirby.com/docs/cookbook/setup/composer#installing-kirby-to-a-custom-directory  
 
 <img width="222" alt="grafik" src="https://user-images.githubusercontent.com/562826/156528957-d8743bca-bc71-46b8-be8a-1dffb7f60e72.png">
 
@@ -30,6 +32,11 @@ composer install
 composer start
 ```
 open http://localhost:8000
+
+## Install Plugins
+```
+composer require johannschopplich/kirby-extended
+```
 
 ## Change Custom Path
 rename '/src', change 'vendor-dir', 'kirby-plugin-path' and also change the folder where php starts the server in **composer.json**
