@@ -35,4 +35,4 @@ open http://localhost:8000
 rename '/src', change 'vendor-dir', 'kirby-plugin-path' and also change the folder where php starts the server in **composer.json**
 
 ## Licence
-Keep in mind that **Kirby** is not freeware. You need a licence: https://getkirby.com/ but it's worth it!
+Keep in mind that **Kirby** is not freeware. You can buy a licence: https://getkirby.com/buy -> It's worth it!
