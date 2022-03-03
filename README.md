@@ -1,6 +1,6 @@
 # Kirby 3.6 Public Starter Kit
 
-A copy of the Kirby Starterkit, but with **public folder structure** and finally the right composer config for a **custom folder structure**. That should be a good starting point, to create all kind of kirby projects and be able to build to '/dist' or setup a backend/frontend-structure...however (build not included yet)
+A copy of the Kirby Starterkit, but with a more secure **public folder structure** and a composer config for a **custom folder structure**. That should be a good starting point, to create all kind of kirby projects and be able to build to '/dist' or setup a backend/frontend-headless-structure ... whatever (build not included yet)
 
 - Secure Public Folder Setup '/src/public'
 - Composer installs Kirby to '/src/vendor'
@@ -13,9 +13,9 @@ Install composer: https://getcomposer.org/
 ```
 git clone git@github.com:dennisbaum/kirby-public-starter-kit-customfolder.git
 cd kirby-public-starter-kit-customfolder
+code .
 composer install
 composer start
-code .
 ```
 open http://localhost:8000
 
