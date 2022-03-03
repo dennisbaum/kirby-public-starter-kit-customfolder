@@ -1,6 +1,6 @@
 # Kirby 3.6 Plainkit with Public Folder and Custom Path Structure
 
-A copy of the Kirby Plainkit, but with a more secure **public folder setup** and a composer config for a **custom path structure**. That should be a good **starting point**, to create all kind of kirby projects and be able to build to '/dist' or setup a backend-frontend-headless-structure ... whatever (build not included yet)
+A copy of the Kirby Plainkit, but with a more secure **public folder setup** and a composer config for a **custom path structure**. That should be a good **starting point**, to create all kind of kirby projects and be able to do build to '/dist' or setup a backend-frontend-headless-structure ... whatever (build not included yet)
 
 + Secure Public Folder Setup '/src/public'
 + Composer installs Kirby to '/src/vendor'
@@ -12,6 +12,8 @@ A copy of the Kirby Plainkit, but with a more secure **public folder setup** and
 ## Read more
 Custom Folder Setup https://getkirby.com/docs/guide/configuration#custom-folder-setup  
 Custom Path https://getkirby.com/docs/cookbook/setup/composer#installing-kirby-to-a-custom-directory
+
+<img width="222" alt="grafik" src="https://user-images.githubusercontent.com/562826/156528957-d8743bca-bc71-46b8-be8a-1dffb7f60e72.png">
 
 ## How to
 Install composer: https://getcomposer.org/
