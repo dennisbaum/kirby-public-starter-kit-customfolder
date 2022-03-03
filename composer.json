@@ -1,7 +1,8 @@
 {
   "require": {
     "php": ">=7.4.0 <8.2.0",
-    "getkirby/cms": "^3.6"
+    "getkirby/cms": "^3.6",
+    "beebmx/kirby-env": "^3.0"
   },
   "scripts": {
     "start": [

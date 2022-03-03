@@ -13,6 +13,11 @@ src/public/media/*
 # ---------------
 /src/vendor/*
 
+# dotenv files
+# ---------------
+.env
+
+
 # Lock files
 # ---------------
 
@@ -24,6 +29,10 @@ src/public/media/*
 *.sublime-workspace
 /.vscode
 /.idea
+
+# Plugins installed by Composer
+# ---------------
+/src/site/plugins/kirby-env
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
