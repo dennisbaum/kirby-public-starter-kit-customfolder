@@ -50,7 +50,8 @@ goto http://localhost:8000
 composer remove beebmx/kirby-env
 composer require johannschopplich/kirby-extended
 ```
-add plugins installed by composer to .gitignore
+gitignore plugins installed by composer
+after updating to kirby-extended, you have to update the config.php to use dotenv again
 
 ## Change Custom Path
 rename '/src', change 'vendor-dir', 'kirby-plugin-path' and also change the folder where php starts the server in **composer.json**
