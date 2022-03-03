@@ -25,25 +25,25 @@ Install composer: https://getcomposer.org/ or use homebrew
 ```
 brew install composer
 ```
-### clone repository
+clone reposi    tory
 ```
 git clone git@github.com:dennisbaum/kirby3-plainkit-publicfolder-custompath.git
 ```
-### create .env by duplicate .env.example
+create .env by duplicate .env.example
 ```
 cd kirby3-plainkit-publicfolder-custompath
 cp src/.env.example src/.env
 ```
-### open in VSCode
+open in VSCode
 ```
 code .
 ```
-### install Kirby and run Server
+install Kirby and run Server
 ```
 composer install
 composer start
 ```
-### goto http://localhost:8000
+goto http://localhost:8000
 
 ## Install/Uninstall Plugins
 ```
