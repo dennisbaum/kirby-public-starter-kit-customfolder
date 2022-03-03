@@ -8,6 +8,8 @@ A copy of the Kirby Plainkit, but with a more secure **public folder setup** and
 + Composer starts local PHP Server in '/src/public'
 + DotEnv by Beebmx\KirbyEnv
 
+<br> 
+<img width="441" alt="grafik" src="https://user-images.githubusercontent.com/562826/156607298-5a0cb8a4-4b92-425f-9b1b-0b41615cbf08.png">
 <br>
 
 ## Read more
@@ -16,8 +18,6 @@ Kirby Plainkit https://github.com/getkirby/plainkit
 Custom Folder Setup https://getkirby.com/docs/guide/configuration#custom-folder-setup  
 Custom Path https://getkirby.com/docs/cookbook/setup/composer#installing-kirby-to-a-custom-directory  
 DotEnv https://github.com/beebmx/kirby-env, https://github.com/johannschopplich/kirby-extended
-
-<img width="222" alt="grafik" src="https://user-images.githubusercontent.com/562826/156528957-d8743bca-bc71-46b8-be8a-1dffb7f60e72.png">
 
 ## Install
 Install composer: https://getcomposer.org/ or use homebrew
