@@ -1,6 +1,7 @@
 # Kirby 3.6 Plainkit with Public Folder, Custom Path and DotEnv
 
-A copy of the Kirby Plainkit, but with a more secure **public folder setup** and a composer config for a **custom path structure**. That should be a good **starting point**, to create all kind of kirby projects and be able to do build to '/dist' or setup a backend-frontend-headless-structure ... whatever (build not included yet)
+A copy of the Kirby Plainkit, but with a more secure **public folder setup** and a composer config for a **custom path structure**.
+That should be a good **starting point**, to create all kind of kirby projects and be able to do build to '/dist' or setup a backend-frontend-headless-structure ... whatever (build not included yet)  
 
 + Secure Public Folder Setup '/src/public'
 + Composer installs Kirby to '/src/vendor'
@@ -24,18 +25,25 @@ Install composer: https://getcomposer.org/ or use homebrew
 ```
 brew install composer
 ```
-
-Clone Repository, create .env, open VSCode, install Kirby, start Server
+### clone repository
 ```
 git clone git@github.com:dennisbaum/kirby3-plainkit-publicfolder-custompath.git
+```
+### create .env by duplicate .env.example
+```
 cd kirby3-plainkit-publicfolder-custompath
 cp src/.env.example src/.env
+```
+### open in VSCode
+```
 code .
+```
+### install Kirby and run Server
+```
 composer install
 composer start
-
 ```
-open http://localhost:8000
+### goto http://localhost:8000
 
 ## Install/Uninstall Plugins
 ```
