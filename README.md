@@ -37,7 +37,7 @@ open http://localhost:8000
 ```
 for example: composer require johannschopplich/kirby-extended
 ```
-you should gitignore plugins installed by composer
+you should add plugins installed by composer to .gitignore
 
 ## Change Custom Path
 rename '/src', change 'vendor-dir', 'kirby-plugin-path' and also change the folder where php starts the server in **composer.json**
