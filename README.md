@@ -17,13 +17,13 @@ Custom Path https://getkirby.com/docs/cookbook/setup/composer#installing-kirby-t
 
 <img width="222" alt="grafik" src="https://user-images.githubusercontent.com/562826/156528957-d8743bca-bc71-46b8-be8a-1dffb7f60e72.png">
 
-## How to
-Install composer: https://getcomposer.org/
+## Install
+Install composer: https://getcomposer.org/ or use homebrew
 ```
 brew install composer
 ```
 
-Clone Repository, install Kirby and start Server
+Clone Repository, open in VSCode, install Kirby and start Server
 ```
 git clone git@github.com:dennisbaum/kirby3-plainkit-publicfolder-custompath.git
 cd kirby3-plainkit-publicfolder-custompath
@@ -35,7 +35,7 @@ open http://localhost:8000
 
 ## Install Plugins
 ```
-composer require johannschopplich/kirby-extended
+for example: composer require johannschopplich/kirby-extended
 ```
 
 ## Change Custom Path
